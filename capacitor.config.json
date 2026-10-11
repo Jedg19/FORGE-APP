@@ -1,0 +1,7 @@
+{
+  "appId": "com.joshua.forge",
+  "appName": "FORGE",
+  "webDir": "www",
+  "backgroundColor": "#0b0f14",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
